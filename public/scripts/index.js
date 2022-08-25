@@ -22,4 +22,14 @@ function populateDropdown(stateList) {
   let selectStateOption = [{ name: "Select a state" }];
   let selectStateDropdown = new Option(selectStateOption[0].name);
   selectState.appendChild(selectStateDropdown);
+
+  let stateListLength = stateList.length;
+  for(let i = 0; i < stateListLength; i++) {
+    let stateListOption = new Option(stateList[i].name, stateList[i].code);
+    selectState.appendChild(stateListOption);
+  }
+}
+
+function onChangeDisplayCity() {
+  
 }
