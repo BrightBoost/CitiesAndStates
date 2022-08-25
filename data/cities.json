@@ -1,0 +1,958 @@
+[
+    {
+        "city": "Aberdeen",
+        "state": "Maryland"
+    },
+    {
+        "city": "Aberdeen",
+        "state": "Mississippi"
+    },
+    {
+        "city": "Aberdeen",
+        "state": "Washington"
+    },
+    {
+        "city": "Abilene",
+        "state": "Texas"
+    },
+    {
+        "city": "Abilene",
+        "state": "Kansas"
+    },
+    {
+        "city": "Abingdon",
+        "state": "Virginia"
+    },
+    {
+        "city": "Abington",
+        "state": "Massachusetts"
+    },
+    {
+        "city": "Abington",
+        "state": "Massachusetts"
+    },
+    {
+        "city": "Accokeek",
+        "state": "Maryland"
+    },
+    {
+        "city": "Acton",
+        "state": "Massachusetts"
+    },
+    {
+        "city": "Acushnet",
+        "state": "Massachusetts"
+    },
+    {
+        "city": "Acworth",
+        "state": "Georgia"
+    },
+    {
+        "city": "Ada",
+        "state": "Oklahoma"
+    },
+    {
+        "city": "Adams",
+        "state": "Massachusetts"
+    },
+    {
+        "city": "Addison",
+        "state": "Illinois"
+    },
+    {
+        "city": "Addison",
+        "state": "Texas"
+    },
+    {
+        "city": "Adelanto",
+        "state": "California"
+    },
+    {
+        "city": "Adelphi",
+        "state": "Maryland"
+    },
+    {
+        "city": "Adrian",
+        "state": "Michigan"
+    },
+    {
+        "city": "Affton",
+        "state": "Missouri"
+    },
+    {
+        "city": "Agawam",
+        "state": "Massachusetts"
+    },
+    {
+        "city": "Agoura Hills",
+        "state": "California"
+    },
+    {
+        "city": "Ahuimanu",
+        "state": "Hawaii"
+    },
+    {
+        "city": "Aiea",
+        "state": "Hawaii"
+    },
+    {
+        "city": "Air Force Academy",
+        "state": "Colorado"
+    },
+    {
+        "city": "Alachua",
+        "state": "Florida"
+    },
+    {
+        "city": "Alameda",
+        "state": "California"
+    },
+    {
+        "city": "Alamo",
+        "state": "California"
+    },
+    {
+        "city": "Alamo",
+        "state": "Texas"
+    },
+    {
+        "city": "Alamo Heights",
+        "state": "Texas"
+    },
+    {
+        "city": "Alamosa",
+        "state": "Colorado"
+    },
+    {
+        "city": "Albany",
+        "state": "Georgia"
+    },
+    {
+        "city": "Albany",
+        "state": "California"
+    },
+    {
+        "city": "Albany",
+        "state": "New York"
+    },
+    {
+        "city": "Albany",
+        "state": "Oregon"
+    },
+    {
+        "city": "Albert Lea",
+        "state": "Minnesota"
+    },
+    {
+        "city": "Albertville",
+        "state": "Alabama"
+    },
+    {
+        "city": "Albion",
+        "state": "Michigan"
+    },
+    {
+        "city": "Alcoa",
+        "state": "Tennessee"
+    },
+    {
+        "city": "Alderwood Manor",
+        "state": "Washington"
+    },
+    {
+        "city": "Aldine",
+        "state": "Texas"
+    },
+    {
+        "city": "Alexander City",
+        "state": "Alabama"
+    },
+    {
+        "city": "Alexandria",
+        "state": "Indiana"
+    },
+    {
+        "city": "Alexandria",
+        "state": "Minnesota"
+    },
+    {
+        "city": "Alexandria",
+        "state": "Kentucky"
+    },
+    {
+        "city": "Alexandria",
+        "state": "Louisiana"
+    },
+    {
+        "city": "Alexandria",
+        "state": "Virginia"
+    },
+    {
+        "city": "Algonquin",
+        "state": "Illinois"
+    },
+    {
+        "city": "Alhambra",
+        "state": "California"
+    },
+    {
+        "city": "Alice",
+        "state": "Texas"
+    },
+    {
+        "city": "Aliquippa",
+        "state": "Pennsylvania"
+    },
+    {
+        "city": "Aliso Viejo",
+        "state": "California"
+    },
+    {
+        "city": "Allen",
+        "state": "Texas"
+    },
+    {
+        "city": "Allen Park",
+        "state": "Michigan"
+    },
+    {
+        "city": "Allendale",
+        "state": "Michigan"
+    },
+    {
+        "city": "Allendale",
+        "state": "New Jersey"
+    },
+    {
+        "city": "Allentown",
+        "state": "Pennsylvania"
+    },
+    {
+        "city": "Alliance",
+        "state": "Ohio"
+    },
+    {
+        "city": "Alliance",
+        "state": "Nebraska"
+    },
+    {
+        "city": "Allouez",
+        "state": "Wisconsin"
+    },
+    {
+        "city": "Alma",
+        "state": "Michigan"
+    },
+    {
+        "city": "Aloha",
+        "state": "Oregon"
+    },
+    {
+        "city": "Alondra Park",
+        "state": "California"
+    },
+    {
+        "city": "Alpena",
+        "state": "Michigan"
+    },
+    {
+        "city": "Alpharetta",
+        "state": "Georgia"
+    },
+    {
+        "city": "Alpine",
+        "state": "California"
+    },
+    {
+        "city": "Alpine",
+        "state": "Utah"
+    },
+    {
+        "city": "Alsip",
+        "state": "Illinois"
+    },
+    {
+        "city": "Alta Sierra",
+        "state": "California"
+    },
+    {
+        "city": "Altadena",
+        "state": "California"
+    },
+    {
+        "city": "Altamont",
+        "state": "Oregon"
+    },
+    {
+        "city": "Apple Valley",
+        "state": "California"
+    },
+    {
+        "city": "Apple Valley",
+        "state": "Minnesota"
+    },
+    {
+        "city": "Appleton",
+        "state": "Wisconsin"
+    },
+    {
+        "city": "Applewood",
+        "state": "Colorado"
+    },
+    {
+        "city": "Aptos",
+        "state": "California"
+    },
+    {
+        "city": "Aquia Harbour",
+        "state": "Virginia"
+    },
+    {
+        "city": "Arab",
+        "state": "Alabama"
+    },
+    {
+        "city": "Arabi",
+        "state": "Louisiana"
+    },
+    {
+        "city": "Aransas Pass",
+        "state": "Texas"
+    },
+    {
+        "city": "Neenah",
+        "state": "Wisconsin"
+    },
+    {
+        "city": "Nellis AFB",
+        "state": "Nevada"
+    },
+    {
+        "city": "Neosho",
+        "state": "Missouri"
+    },
+    {
+        "city": "Neptune Beach",
+        "state": "Florida"
+    },
+    {
+        "city": "New Braunfels",
+        "state": "Texas"
+    },
+    {
+        "city": "New Brighton",
+        "state": "Pennsylvania"
+    },
+    {
+        "city": "New Brighton",
+        "state": "Minnesota"
+    },
+    {
+        "city": "New Britain",
+        "state": "Connecticut"
+    },
+    {
+        "city": "New Britain",
+        "state": "Connecticut"
+    },
+    {
+        "city": "New Kensington",
+        "state": "Pennsylvania"
+    },
+    {
+        "city": "New Kingman-Butler",
+        "state": "Arizona"
+    },
+    {
+        "city": "New Lenox",
+        "state": "Illinois"
+    },
+    {
+        "city": "New London",
+        "state": "Connecticut"
+    },
+    {
+        "city": "New London",
+        "state": "Connecticut"
+    },
+    {
+        "city": "New London",
+        "state": "Wisconsin"
+    },
+    {
+        "city": "New Milford",
+        "state": "Connecticut"
+    },
+    {
+        "city": "New Milford",
+        "state": "Connecticut"
+    },
+    {
+        "city": "Newark",
+        "state": "Ohio"
+    },
+    {
+        "city": "Newark",
+        "state": "Delaware"
+    },
+    {
+        "city": "Newark",
+        "state": "California"
+    },
+    {
+        "city": "Newberg",
+        "state": "Oregon"
+    },
+    {
+        "city": "Newington",
+        "state": "Virginia"
+    },
+    {
+        "city": "Newington",
+        "state": "Connecticut"
+    },
+    {
+        "city": "Newington",
+        "state": "Connecticut"
+    },
+    {
+        "city": "Newman",
+        "state": "California"
+    },
+    {
+        "city": "Newport",
+        "state": "Oregon"
+    },
+    {
+        "city": "Newport Beach",
+        "state": "California"
+    },
+    {
+        "city": "Newport News",
+        "state": "Virginia"
+    },
+    {
+        "city": "Newton",
+        "state": "Kansas"
+    },
+    {
+        "city": "Newton",
+        "state": "Iowa"
+    },
+    {
+        "city": "Newton",
+        "state": "Massachusetts"
+    },
+    {
+        "city": "Niles",
+        "state": "Illinois"
+    },
+    {
+        "city": "Niles",
+        "state": "Ohio"
+    },
+    {
+        "city": "Nipomo",
+        "state": "California"
+    },
+    {
+        "city": "Niskayuna",
+        "state": "New York"
+    },
+    {
+        "city": "Nitro",
+        "state": "West Virginia"
+    },
+    {
+        "city": "Nixa",
+        "state": "Missouri"
+    },
+    {
+        "city": "Noblesville",
+        "state": "Indiana"
+    },
+    {
+        "city": "Nogales",
+        "state": "Arizona"
+    },
+    {
+        "city": "Norco",
+        "state": "California"
+    },
+    {
+        "city": "Norcross",
+        "state": "Georgia"
+    },
+    {
+        "city": "Norfolk",
+        "state": "Massachusetts"
+    },
+    {
+        "city": "Norfolk",
+        "state": "Nebraska"
+    },
+    {
+        "city": "Norfolk",
+        "state": "Virginia"
+    },
+    {
+        "city": "Norland",
+        "state": "Florida"
+    },
+    {
+        "city": "Normal",
+        "state": "Illinois"
+    },
+    {
+        "city": "Norman",
+        "state": "Oklahoma"
+    },
+    {
+        "city": "Normandy Park",
+        "state": "Washington"
+    },
+    {
+        "city": "Norridge",
+        "state": "Illinois"
+    },
+    {
+        "city": "Norristown",
+        "state": "Pennsylvania"
+    },
+    {
+        "city": "North Adams",
+        "state": "Massachusetts"
+    },
+    {
+        "city": "North Amherst",
+        "state": "Massachusetts"
+    },
+    {
+        "city": "North Andover",
+        "state": "Massachusetts"
+    },
+    {
+        "city": "North Andrews Gardens",
+        "state": "Florida"
+    },
+    {
+        "city": "Ontario",
+        "state": "Oregon"
+    },
+    {
+        "city": "Ontario",
+        "state": "California"
+    },
+    {
+        "city": "Opa-locka",
+        "state": "Florida"
+    },
+    {
+        "city": "Opa-locka North",
+        "state": "Florida"
+    },
+    {
+        "city": "Opal Cliffs",
+        "state": "California"
+    },
+    {
+        "city": "Opelika",
+        "state": "Alabama"
+    },
+    {
+        "city": "Opelousas",
+        "state": "Louisiana"
+    },
+    {
+        "city": "Opp",
+        "state": "Alabama"
+    },
+    {
+        "city": "Opportunity",
+        "state": "Washington"
+    },
+    {
+        "city": "Oquirrh",
+        "state": "Utah"
+    },
+    {
+        "city": "Orange",
+        "state": "Massachusetts"
+    },
+    {
+        "city": "Orange",
+        "state": "Texas"
+    },
+    {
+        "city": "Orange",
+        "state": "Connecticut"
+    },
+    {
+        "city": "Orange",
+        "state": "California"
+    },
+    {
+        "city": "Orange",
+        "state": "Connecticut"
+    },
+    {
+        "city": "Orange City",
+        "state": "Florida"
+    },
+    {
+        "city": "Orange Cove",
+        "state": "California"
+    },
+    {
+        "city": "Orange Park",
+        "state": "Florida"
+    },
+    {
+        "city": "Owosso",
+        "state": "Michigan"
+    },
+    {
+        "city": "Oxford",
+        "state": "Massachusetts"
+    },
+    {
+        "city": "Oxford",
+        "state": "Mississippi"
+    },
+    {
+        "city": "Oxford",
+        "state": "Ohio"
+    },
+    {
+        "city": "Oxford",
+        "state": "Connecticut"
+    },
+    {
+        "city": "Oxford",
+        "state": "Alabama"
+    },
+    {
+        "city": "Oxnard",
+        "state": "California"
+    },
+    {
+        "city": "Pelham",
+        "state": "Alabama"
+    },
+    {
+        "city": "Pepperell",
+        "state": "Massachusetts"
+    },
+    {
+        "city": "Peru",
+        "state": "Illinois"
+    },
+    {
+        "city": "Peru",
+        "state": "Indiana"
+    },
+    {
+        "city": "Petal",
+        "state": "Mississippi"
+    },
+    {
+        "city": "Petaluma",
+        "state": "California"
+    },
+    {
+        "city": "Petersburg",
+        "state": "Virginia"
+    },
+    {
+        "city": "Petoskey",
+        "state": "Michigan"
+    },
+    {
+        "city": "Pewaukee",
+        "state": "Wisconsin"
+    },
+    {
+        "city": "Pewaukee",
+        "state": "Wisconsin"
+    },
+    {
+        "city": "Pflugerville",
+        "state": "Texas"
+    },
+    {
+        "city": "Pharr",
+        "state": "Texas"
+    },
+    {
+        "city": "Pleasure Ridge Park",
+        "state": "Kentucky"
+    },
+    {
+        "city": "Plover",
+        "state": "Wisconsin"
+    },
+    {
+        "city": "Plum",
+        "state": "Pennsylvania"
+    },
+    {
+        "city": "Plymouth",
+        "state": "Pennsylvania"
+    },
+    {
+        "city": "Plymouth",
+        "state": "Massachusetts"
+    },
+    {
+        "city": "Plymouth",
+        "state": "Michigan"
+    },
+    {
+        "city": "Plymouth",
+        "state": "Massachusetts"
+    },
+    {
+        "city": "Plymouth",
+        "state": "Minnesota"
+    },
+    {
+        "city": "Plymouth",
+        "state": "Indiana"
+    },
+    {
+        "city": "Plymouth",
+        "state": "Connecticut"
+    },
+    {
+        "city": "Plymouth",
+        "state": "Wisconsin"
+    },
+    {
+        "city": "Sallisaw",
+        "state": "Oklahoma"
+    },
+    {
+        "city": "Salmon Creek",
+        "state": "Washington"
+    },
+    {
+        "city": "Salt Lake City",
+        "state": "Utah"
+    },
+    {
+        "city": "Sammamish",
+        "state": "Washington"
+    },
+    {
+        "city": "San Angelo",
+        "state": "Texas"
+    },
+    {
+        "city": "San Anselmo",
+        "state": "California"
+    },
+    {
+        "city": "San Antonio",
+        "state": "Texas"
+    },
+    {
+        "city": "San Benito",
+        "state": "Texas"
+    },
+    {
+        "city": "San Bernardino",
+        "state": "California"
+    },
+    {
+        "city": "San Bruno",
+        "state": "California"
+    },
+    {
+        "city": "San Buenaventura",
+        "state": "California"
+    },
+    {
+        "city": "San Carlos",
+        "state": "California"
+    },
+    {
+        "city": "San Carlos Park",
+        "state": "Florida"
+    },
+    {
+        "city": "San Clemente",
+        "state": "California"
+    },
+    {
+        "city": "Stillwater",
+        "state": "Minnesota"
+    },
+    {
+        "city": "Storm Lake",
+        "state": "Iowa"
+    },
+    {
+        "city": "Storrs",
+        "state": "Connecticut"
+    },
+    {
+        "city": "Stoughton",
+        "state": "Massachusetts"
+    },
+    {
+        "city": "Stoughton",
+        "state": "Wisconsin"
+    },
+    {
+        "city": "Tempe",
+        "state": "Arizona"
+    },
+    {
+        "city": "Temperance",
+        "state": "Michigan"
+    },
+    {
+        "city": "Temple",
+        "state": "Texas"
+    },
+    {
+        "city": "Temple City",
+        "state": "California"
+    },
+    {
+        "city": "Temple Hills",
+        "state": "Maryland"
+    },
+    {
+        "city": "Temple Terrace",
+        "state": "Florida"
+    },
+    {
+        "city": "Templeton",
+        "state": "Massachusetts"
+    },
+    {
+        "city": "Upper Sandusky",
+        "state": "Ohio"
+    },
+    {
+        "city": "Upper St. Clair",
+        "state": "Pennsylvania"
+    },
+    {
+        "city": "Urbana",
+        "state": "Ohio"
+    },
+    {
+        "city": "Urbana",
+        "state": "Illinois"
+    },
+    {
+        "city": "Urbandale",
+        "state": "Iowa"
+    },
+    {
+        "city": "Utica",
+        "state": "New York"
+    },
+    {
+        "city": "Uvalde",
+        "state": "Texas"
+    },
+    {
+        "city": "Uxbridge",
+        "state": "Massachusetts"
+    },
+    {
+        "city": "Vacaville",
+        "state": "California"
+    },
+    {
+        "city": "Vadnais Heights",
+        "state": "Minnesota"
+    },
+    {
+        "city": "Valdosta",
+        "state": "Georgia"
+    },
+    {
+        "city": "Valinda",
+        "state": "California"
+    },
+    {
+        "city": "Valle Vista",
+        "state": "California"
+    },
+    {
+        "city": "Vallejo",
+        "state": "California"
+    },
+    {
+        "city": "Valley",
+        "state": "Alabama"
+    },
+    {
+        "city": "Valley Center",
+        "state": "California"
+    },
+    {
+        "city": "Walker",
+        "state": "Michigan"
+    },
+    {
+        "city": "Walker Mill",
+        "state": "Maryland"
+    },
+    {
+        "city": "Walla Walla",
+        "state": "Washington"
+    },
+    {
+        "city": "Walled Lake",
+        "state": "Michigan"
+    },
+    {
+        "city": "Waller",
+        "state": "Washington"
+    },
+    {
+        "city": "Wallingford",
+        "state": "Connecticut"
+    },
+    {
+        "city": "Wallingford Center",
+        "state": "Connecticut"
+    },
+    {
+        "city": "Yukon",
+        "state": "Oklahoma"
+    },
+    {
+        "city": "Yulee",
+        "state": "Florida"
+    },
+    {
+        "city": "Yuma",
+        "state": "Arizona"
+    },
+    {
+        "city": "Zachary",
+        "state": "Louisiana"
+    },
+    {
+        "city": "Zanesville",
+        "state": "Ohio"
+    },
+    {
+        "city": "Zephyrhills",
+        "state": "Florida"
+    },
+    {
+        "city": "Zion",
+        "state": "Illinois"
+    },
+    {
+        "city": "Zionsville",
+        "state": "Indiana"
+    }
+]
